@@ -1,0 +1,22 @@
+{
+  "name": "Italy Guide — Переезд и жизнь в Италии",
+  "short_name": "ItalyGuide",
+  "description": "Пошаговые инструкции, гайды по ВНЖ, налогам и недвижимости в Италии",
+  "labels": ["immigration", "italy", "guide"],
+  "start_url": "/guide/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#009351",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

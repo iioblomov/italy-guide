@@ -5,7 +5,6 @@ import {themes as githubThemes} from 'prism-react-renderer';
 const config = {
   title: 'Italy Guide',
   tagline: 'Гайд по переезду и жизни в Италии',
-  favicon: 'img/favicon.ico',
 
   // Укажите ваш домен или адрес github pages
   url: 'https://iioblomov.github.io', 
@@ -34,7 +33,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: './sidebar.js',
           routeBasePath: 'guide', // Изменяем /docs/ на /guide/ для красоты
         },
         blog: {
@@ -66,8 +65,6 @@ const config = {
         debug: false,
         offlineModeActivationStrategies: ['appInstalled', 'standalone', 'mobile'],
         pwaHead: [
-          { tagName: 'link', rel: 'icon', href: '/img/logo.png' },
-          { tagName: 'link', rel: 'manifest', href: '/manifest.json' },
           { tagName: 'meta', name: 'theme-color', content: '#009351' }, // Итальянский зеленый
         ],
       },
@@ -79,10 +76,6 @@ const config = {
     ({
       navbar: {
         title: 'Italy Guide',
-        logo: {
-          alt: 'Italy Guide Logo',
-          src: 'img/logo.svg',
-        },
         items: [
           { type: 'docSidebar', sidebarId: 'guideSidebar', position: 'left', label: 'Гайд' },
           { to: '/ai-chat', label: 'ИИ Чат', position: 'left' },
