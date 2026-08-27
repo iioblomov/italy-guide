@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkitaly_guide||=[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"\u0412\u0441\u0435 \u043f\u043e\u0441\u0442\u044b","items":[]}')}}]);

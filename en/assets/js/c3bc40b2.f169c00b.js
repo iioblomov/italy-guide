@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkitaly_guide||=[]).push([[880],{4852(e){e.exports=JSON.parse('{"metadata":{"permalink":"/italy-guide/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":0,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
