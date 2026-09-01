@@ -17,7 +17,7 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
-  // Настройка мультиязычности (RU по умолчанию, EN как опция)
+  // Localisations: RU/EN
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru', 'en'],
