@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkitaly_guide||=[]).push([[93],{5895(e){e.exports=JSON.parse('{"tags":[{"label":"visa","permalink":"/italy-guide/en/guide/tags/visa","count":1},{"label":"residence","permalink":"/italy-guide/en/guide/tags/residence","count":1},{"label":"relocation","permalink":"/italy-guide/en/guide/tags/relocation","count":1}]}')}}]);

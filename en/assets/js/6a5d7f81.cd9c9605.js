@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkitaly_guide||=[]).push([[725],{46(e){e.exports=JSON.parse('{"tags":[{"label":"visa","permalink":"/en/guide/tags/visa","count":1},{"label":"residence","permalink":"/en/guide/tags/residence","count":1},{"label":"relocation","permalink":"/en/guide/tags/relocation","count":1}]}')}}]);
