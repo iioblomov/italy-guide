@@ -7,8 +7,8 @@ const config = {
   tagline: 'Гайд по переезду и жизни в Италии',
 
   // Укажите ваш домен или адрес github pages
-  url: 'https://iioblomov.github.io', 
-  baseUrl: '/italy-guide/', // Если репозиторий называется YOUR_GITHUB_USERNAME.github.io, то '/', иначе '/имя-репозитория/'
+  url: 'https://italyguide.me',
+  baseUrl: '/',
 
   organizationName: 'iioblomov', // Ваш логин на GitHub
   projectName: 'italy-guide', // Имя вашего репозитория
