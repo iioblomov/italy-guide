@@ -15,6 +15,14 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: '📍 По прибытии в Италию',
+      items: [
+        'upon-arrival/ricevuta',
+        'upon-arrival/residenza',
+      ],
+    },
+    {
+      type: 'category',
       label: '🏦 Банки и счета',
       items: [
         'banks/open-account',
@@ -29,6 +37,7 @@ const sidebars = {
         'business/open-partita-iva',
         'business/open-srl',
         'business/taxes',
+        'business/forfettario',        
       ],
     },
     {
