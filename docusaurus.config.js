@@ -14,6 +14,10 @@ const config = {
   projectName: 'italy-guide', // Имя вашего репозитория
   trailingSlash: false,
 
+  markdown: {
+    mermaid: true,
+  },
+
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
@@ -46,6 +50,10 @@ const config = {
         },
       }),
     ],
+  ],
+
+  themes: [
+    '@docusaurus/theme-mermaid'
   ],
 
   plugins: [
@@ -92,6 +100,11 @@ const config = {
         theme: githubThemes.github,
         darkTheme: githubThemes.dracula,
       },
+      // mermaid: {
+      //   options: {
+      //     dropShadow: 'none',        
+      //   },
+      // },
     }),
 };
 

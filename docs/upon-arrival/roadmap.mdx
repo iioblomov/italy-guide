@@ -1,0 +1,58 @@
+---
+title: План действий по прибытии в Италию
+description: Последовательность действий по самостоятельному оформлению документов при переезде в Италию
+sidebar_label: План действий
+category: upon arrival
+last_verified: 2026-09-18
+official_sources: []
+---
+
+# План действий по прибытии в Италию
+
+:::info INFO
+Что сделать ДО прибытия в Италию:
+- Записаться на [оформление карты CIE](./cie) (1-2 месяца)
+- Записаться в бесплатную школу итальянского CPIA (1-2 недели)
+- Обсудить с бухгалтером форму будущего [Partita IVA](../business/partita-iva) (2 недели)
+:::
+
+```mermaid
+%%{init: { "dropShadow": "none", "themeVariables": { "dropShadow": "none" }, "themeCSS": ".edgeLabel { font-size: 0.8rem; } .edgeLabel rect { fill: #fafafa; stroke: #ccc; stroke-dasharray: 5 5; }" }}%%
+graph TD
+    %% Styles
+    classDef blue fill:#2196f31f,stroke:#1565c099,rx:10px;
+    classDef orange fill:#ff99001f,stroke:#ef6c0099,rx:10px;
+    classDef green fill:#33f3001f,stroke:#2e7d3299,rx:10px;
+    %% First steps
+    A[Приезд в Италию] -->|⏳ не позднее 8 дней после приезда| B[Отправка КИТа]
+    click B "./ricevuta"
+
+    B -->|въезд не из шенгена| G[Отправка оспиталиты]
+    B -->|въезд из шенгена| D[Уведомление\n о приезде]
+                                 
+    D --> G
+    click D "./presenza"
+    click G "./ospitalita"
+
+    G -->|⏳ не позднее 20 дней после приезда| C[Регистрация\n в коммуне]
+    click C "./residenza"
+
+    C --> I[Оформление карты CIE]
+    click I "./cie"
+
+    I --> F[Переоформление счетчиков и TARI]
+
+    F -->|👨‍💻 Digital Nomad,<br>Lavoro&nbsp;Autonomo| E[Открытие Partita IVA]
+    E --> H
+    
+    %% Rent
+    F -->|🪪 Остальные<br>ВНЖ| H
+    
+    %% Final steps
+    H[Открытие счета в банке]
+
+    %% Apply styles
+    class C,D,I,F,G blue;
+    class A,B green;
+    class E,H orange;
+```

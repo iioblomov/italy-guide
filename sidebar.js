@@ -17,8 +17,12 @@ const sidebars = {
       type: 'category',
       label: '📍 По прибытии в Италию',
       items: [
+        'upon-arrival/roadmap',
+        'upon-arrival/presenza',
+        'upon-arrival/ospitalita',
         'upon-arrival/ricevuta',
         'upon-arrival/residenza',
+        'upon-arrival/cie',        
       ],
     },
     {
@@ -34,7 +38,7 @@ const sidebars = {
       label: '💼 Бизнес и налоги',
       items: [
         'business/codice-fiscale',      
-        'business/open-partita-iva',
+        'business/partita-iva',
         'business/open-srl',
         'business/taxes',
         'business/forfettario',        
@@ -46,6 +50,7 @@ const sidebars = {
       items: [
         'realty/rent',
         'realty/buy',
+        'realty/tari',
       ],
     },
     {

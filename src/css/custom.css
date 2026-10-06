@@ -1,3 +1,9 @@
 .pagination-nav {
   display: none;
 }
+
+/* image borders */
+.markdown img {
+  border: 1px solid #dddddd;
+  box-shadow: 0 2px 4px rgba(7,7,0,0.1);
+}
