@@ -1,4 +1,14 @@
-# ВНЖ цифрового кочевника
+---
+title: "ВНЖ цифрового кочевника (Nomadi Digitali)"
+description: Гайд по получению визы цифрового кочевника (Nomadi digitali) в Италию.
+sidebar_label: ВНЖ Цифровой кочевник
+category: residence permit
+last_verified: 2026-10-08
+official_sources:
+  - https://www.gazzettaufficiale.it/atto/serie_generale/caricaArticoloDefault/originario?atto.codiceRedazionale=24A06589&atto.dataPubblicazioneGazzetta=2024-12-10&atto.tipoProvvedimento=TESTO+COORDINATO+DEL+DECRETO-LEGGE
+---
+
+# ВНЖ цифрового кочевника (Nomadi Digitali)
 
 
 

@@ -7,3 +7,24 @@
   border: 1px solid #dddddd;
   box-shadow: 0 2px 4px rgba(7,7,0,0.1);
 }
+
+/* sidebar header */
+.categoryLinkLabel_W154 {
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: -0.02rem;
+  cursor: initial;
+  padding-top: 0.3rem;
+}
+.menu__link--sublist-caret:after { display: none; }
+/* sidebar link block */
+.menu__list { margin: 0 3px 16px 8px; }
+/* sidebar link */
+.menu__link--active { font-weight: bold; color: var(--ifm-menu-color); }
+.menu__link{
+  line-height: 1.1rem;
+  letter-spacing: -0.01rem;  
+  color: var(--ifm-color-content);
+}
+.menu__link:hover {color: var(--ifm-menu-color);}
+

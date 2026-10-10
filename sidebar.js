@@ -4,25 +4,28 @@ const sidebars = {
   guideSidebar: [
     {
       type: 'category',
-      label: '🪪 ВНЖ (Permesso di Soggiorno)',
+      label: '🪪 Визы и ВНЖ',
       items: [
-        'residence-permit/education',
-        'residence-permit/lavoro-autonomo',
         'residence-permit/digital-nomad',
+        'residence-permit/lavoro-autonomo',
         'residence-permit/passive-income',
+        'residence-permit/education',        
         'residence-permit/family-reunification',
+        'residence-permit/nulla-osta',
+        'residence-permit/translation-apostile',
       ],
     },
     {
       type: 'category',
-      label: '📍 По прибытии в Италию',
+      label: '🇮🇹 Прибытие в Италию',
       items: [
         'upon-arrival/roadmap',
         'upon-arrival/presenza',
         'upon-arrival/ospitalita',
         'upon-arrival/ricevuta',
         'upon-arrival/residenza',
-        'upon-arrival/cie',        
+        'upon-arrival/cie',
+        'upon-arrival/fingerprint',
       ],
     },
     {

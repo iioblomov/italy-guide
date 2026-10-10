@@ -1,3 +1,13 @@
+---
+title: "Открытие и ведение Partita IVA (ИП) в Италии"
+description: Гайд по открытию и ведению Partita IVA (ИП) в Италии
+sidebar_label: Partita IVA (ИП)
+category: business
+last_verified: 2026-10-08
+official_sources:
+  - https://www.istat.it/classificazione/classificazione-delle-attivita-economiche-ateco/
+---
+
 # Открытие и ведение Partita IVA (ИП) в Италии
 
 
