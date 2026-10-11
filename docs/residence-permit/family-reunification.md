@@ -6,9 +6,11 @@ category: upon arrival
 last_verified: 2026-10-07
 official_sources:
   - https://www1.prefettura.it/verona/contenuti/La_procedura_presso_lo_sportello_unico-43458.htm
+  - https://www1.prefettura.it/torino/contenuti/Sportello_unico_per_l_immigrazione-10839.htm
   - https://www.inps.it/it/it/dettaglio-scheda.it.schede-servizio-strumento.schede-servizi.assegno-sociale-50184.assegno-sociale.html
   - https://www.interno.gov.it/sites/default/files/allegati/mods4.pdf
   - https://portaleservizi.dlci.interno.it/AliSportello/ali/home.htm
+  - https://www.adir.unifi.it/odv/adirmigranti/idoneita.htm
 ---
 
 # Воссоединение семьи (Familiari al seguito)
@@ -92,7 +94,16 @@ Assengo Sociale — социальное пособие, которое расс
 
 10. Члены семьи подают документы в консульство на визу D по семейным мотивам (Motivi Familiari). Присутствие основного заявителя на этом этапе не требуется.
 
-[5] [https://www1.prefettura.it](https://www1.prefettura.it/verona/contenuti/La_procedura_presso_lo_sportello_unico-43458.htm)
-[7] [https://www1.prefettura.it](https://www1.prefettura.it/torino/contenuti/Sportello_unico_per_l_immigrazione-10839.htm)
-[13] [https://www.adir.unifi.it](https://www.adir.unifi.it/odv/adirmigranti/idoneita.htm)
+### ⚠️ Можно ли обойтись без представителя? {/* #self */} 
 
+На эту тему идут дискуссии, но, согласно закону, все сделать самостоятельно — реально, хотя и сложно:
+
+- `⏳ 2-3 месяца` Ожидание записи на получение [CIE](../upon-arrival/cie) (можно записаться до приезда)
+- `⏳ 45 дней` [Прописка](../upon-arrival/residenza). После ее получения можно активировать CIE
+- `⏳ до 5 месяцев` Оформление [Nulla Osta](./nulla-osta) (нужен CIE) — действует `⏳ 6 месяцев`
+- `⏳ до 3 месяцев` Оформление визы D на семью
+
+**⚡ Основные риски**
+- Возможные задержки при оформлении Нулла Осты и визы D на родственников.
+- Если во время всего процесса воссоединения у вас закончится ваш первый ВНЖ, то визу родственникам могут не выдать.
+- Правило 6 месяцев по Nulla Osta (см. выше).

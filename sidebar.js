@@ -26,6 +26,7 @@ const sidebars = {
         'upon-arrival/residenza',
         'upon-arrival/cie',
         'upon-arrival/fingerprint',
+        'upon-arrival/shopping',
       ],
     },
     {
