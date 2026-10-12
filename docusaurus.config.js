@@ -3,7 +3,7 @@ import {themes as githubThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Italy Guide',
+  title: 'Гайд по Италии',
   tagline: 'Гайд по переезду и жизни в Италии',
 
   // Укажите ваш домен или адрес github pages
@@ -40,11 +40,11 @@ const config = {
           sidebarPath: './sidebar.js',
           routeBasePath: 'guide', // Изменяем /docs/ на /guide/ для красоты
         },
-        blog: {
-          showReadingTime: true,
-          blogSidebarTitle: 'Все посты',
-          blogSidebarCount: 'ALL',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   blogSidebarTitle: 'Все посты',
+        //   blogSidebarCount: 'ALL',
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -82,19 +82,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Italy Guide',
+        title: 'ITALY, GUIDE ME!',
         items: [
           { type: 'docSidebar', sidebarId: 'guideSidebar', position: 'left', label: 'Гайд' },
-          { to: '/ai-chat', label: 'ИИ Чат', position: 'left' },
+          // { to: '/ai-chat', label: 'ИИ Чат', position: 'left' },
           { to: '/rent', label: 'Жилье в аренду', position: 'left' },
-          { to: '/blog', label: 'Блог', position: 'left' },
-          { to: '/about', label: 'О нас', position: 'left' },
+          // { to: '/blog', label: 'Блог', position: 'left' },
+          // { to: '/about', label: 'О нас', position: 'left' },
           { type: 'localeDropdown', position: 'right' }, // Переключатель языков
         ],
       },
       footer: {
         style: 'dark',
-        copyright: `© ${new Date().getFullYear()} Italy Guide.`,
+        copyright: `© ${new Date().getFullYear()} ItalyGuide.me - гайд по переезду и жизни в Италии`,
       },
       prism: {
         theme: githubThemes.github,

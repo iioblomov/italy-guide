@@ -16,6 +16,7 @@
   cursor: initial;
   padding-top: 0.3rem;
 }
+/* links */
 .menu__link--sublist-caret:after { display: none; }
 /* sidebar link block */
 .menu__list { margin: 0 3px 16px 8px; }
@@ -28,3 +29,27 @@
 }
 .menu__link:hover {color: var(--ifm-menu-color);}
 
+html[data-theme='dark'] .markdown a {
+  color: #55aaee;
+}
+
+html[data-theme='dark'] .breadcrumbs__link,
+html[data-theme='dark'] .breadcrumbs__link:hover {
+  color: var(--ifm-color-content);
+}
+
+html[data-theme='dark'] .navbar__link,
+html[data-theme='dark'] .navbar__link:hover {
+  color: var(--ifm-color-content);
+}
+
+/* index page */
+.contact-callout {
+  background: var(--ifm-code-background);
+  border-radius: var(--ifm-code-border-radius);
+  padding: 1rem;
+  margin-bottom: var(--ifm-leading);
+}
+.contact-callout p {
+  margin: 0.5rem 0 0;
+}
