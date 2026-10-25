@@ -7,6 +7,9 @@ last_verified: 2026-10-08
 official_sources:
   - https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/traduzione-e-legalizzazione-dei-documenti/elenco-dei-traduttori-accreditati/
   - https://ambbelgrado.esteri.it/sr/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/albo-consolare-e-altri-servizi/
+  - https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/traduzione-e-legalizzazione-dei-documenti/
+  - https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/altri-servizi/dichiarazioni-di-valore/
+  - https://consmosca.esteri.it/wp-content/uploads/2026/10/Istanza_DDV_Mosca.pdf
   - https://www.cimea-diplome.it/page-services
   - https://www.gov.uk/government/publications/legalisation-next-day-service-providers/list-of-next-day-legalisation-service-providers
 ---
@@ -45,8 +48,7 @@ official_sources:
    - РФ: Заявка через госуслуги → Получение в МВД  
    - Сербия: там же, где справка [получена ↗](https://www.srb.guide/guides/personal/police-certificate/) (МУП или Суд)
 
-**🛑 Если ведомство отказалось ставить апостиль**
-
+**🛑 Если ведомство отказалось ставить апостиль**  
 Попросите официальный документ об отказе. Его можно перевести и приложить к оригиналу вместо апостиля.
 
 ## 🎓 DDV {/* #ddv */}
@@ -62,19 +64,19 @@ DDV (Dichiarazione di Valore) - подтверждение подлинност�
 1. Запишитесь в консульство или визовый центр.
 
 2. Подготовьте документы:
-- TODO: link Заполните и подпишите [форму завления ↗]()
+- Заполните и подпишите [форму завления ↗](https://consmosca.esteri.it/wp-content/uploads/2026/10/Istanza_DDV_Mosca.pdf)
 - Цель получения DDV:
   - Учеба: заявление на [поступление в ВУЗ ↗](https://www.universitaly.it/)
   - Работа: анкета на визу
 
-Подробнее: TODO: link  [сайт консульства ↗]()
+Подробнее о DDV в РФ: [Сайт консульства ↗](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/altri-servizi/dichiarazioni-di-valore/)
 
 ### CIMEA
 Если есть возможность сделать сертификат CIMEA, лучше сделать именно его, т.к. это официальный итальянский документ. РФ вышла из Болонской системы, поэтому российские дипломы CIMEA не подтверждает.
 
-💶 `€150-300` в зависимости от страны диплома
-
+💶 `€150-300` в зависимости от страны диплома  
 ⏳ `до 60 рабочих дней`  
+
 В реальности, если у вас есть электронная версия диплома (🇬🇧HEAR, 🇨🇦🇺🇸 CLR, 🇦🇺AHEGS, 🌏GDN), то проверка займет пару дней. Для получения электронного диплома обратитесь в ваш университет.
 
 **🕒 Проблема с заказом в системе CIMEA**  
@@ -94,4 +96,4 @@ DDV (Dichiarazione di Valore) - подтверждение подлинност�
 - Выписка из трудовой книжки
 - Справка о несудимости
 
-Подробнее: TODO: link  [сайт консульства ↗]()
+Подробнее о заверении документов: [Сайт консульства ↗](https://consmosca.esteri.it/ru/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/traduzione-e-legalizzazione-dei-documenti/)
