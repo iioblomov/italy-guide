@@ -43,18 +43,21 @@ const sidebars = {
       items: [
         'business/codice-fiscale',      
         'business/partita-iva',
+        'business/pec',              
         'business/open-srl',
         'business/taxes',
-        'business/forfettario',        
+        'business/forfettario',       
       ],
     },
     {
       type: 'category',
       label: '🏠 Недвижимость',
       items: [
+        'realty/choose',
         'realty/rent',
         'realty/buy',
-        'realty/tari',
+        'realty/utilities',
+        'realty/prima_casa',
       ],
     },
     {

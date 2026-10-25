@@ -92,6 +92,10 @@ const config = {
           { type: 'localeDropdown', position: 'right' }, // Переключатель языков
         ],
       },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 3,
+      },
       footer: {
         style: 'dark',
         copyright: `© ${new Date().getFullYear()} ItalyGuide.me - гайд по переезду и жизни в Италии`,

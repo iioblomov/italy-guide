@@ -27,7 +27,7 @@ const docTitles = {
   'business/forfettario': 'Режим Forfettario',
   'realty/rent': 'Аренда недвижимости',
   'realty/buy': 'Покупка недвижимости',
-  'realty/tari': 'Регистрация и уплата налога на вывоз мусора (TARI)',
+  'realty/utilities': 'Регистрация и уплата налога на вывоз мусора (TARI)',
   'car/buy-car': 'Покупка автомобиля',
   'car/get-license': 'Получение водительских прав',
   'car/exchange-license': 'Обмен водительских прав',
