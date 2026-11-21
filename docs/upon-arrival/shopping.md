@@ -138,3 +138,7 @@ official_sources:
 - **🔵 Il Gigante** [↗](https://ilgigante.net/)  
 Большой супермаркет  
 
+### 🪷 Красота и здоровье
+
+- **🟠 dm** [↗](https://www.dm-drogeriemarkt.it/)  
+Органические продукты, натуральная косметика и витамины

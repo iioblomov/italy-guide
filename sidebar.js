@@ -62,11 +62,12 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '🚗 Автомобиль и права',
+      label: '🚗 Авто и транспорт',
       items: [
-        'car/buy-car',
-        'car/get-license',
-        'car/exchange-license',
+        'transport/public',
+        'transport/buy-car',
+        'transport/get-license',
+        'transport/exchange-license',
       ],
     },
     {

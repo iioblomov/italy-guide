@@ -22,15 +22,19 @@ const docTitles = {
   'banks/cash-deposit': 'Внесение наличных',
   'business/codice-fiscale': 'Как получить Codice Fiscale (ИНН Италии)',
   'business/partita-iva': 'Открытие и ведение Partita IVA (ИП) в Италии',
+  'business/pec': 'Получение PEC и Firma Digitale в Италии',
   'business/open-srl': 'Открытие SRL',
   'business/taxes': 'Налоги',
   'business/forfettario': 'Режим Forfettario',
+  'realty/choose': 'Как выбрать недвижимость в Италии',
   'realty/rent': 'Аренда недвижимости',
   'realty/buy': 'Покупка недвижимости',
   'realty/utilities': 'Регистрация и уплата налога на вывоз мусора (TARI)',
-  'car/buy-car': 'Покупка автомобиля',
-  'car/get-license': 'Получение водительских прав',
-  'car/exchange-license': 'Обмен водительских прав',
+  'realty/prima_casa': 'Prima casa',
+  'transport/public': 'Общественный транспорт в Италии',
+  'transport/buy-car': 'Покупка автомобиля',
+  'transport/get-license': 'Получение водительских прав',
+  'transport/exchange-license': 'Обмен водительских прав',
   'health/insurance': 'Медицинская страховка',
   'health/doctor-appointment': 'Запись к врачу',
 };
@@ -47,7 +51,7 @@ export default function Home() {
     <Layout title="Italy Guide">
       <main className="container margin-vert--lg">
         <h1>Гайд по переезду в Италию</h1>
-        <p>Мы создали этот гайд, чтобы сделать переезд в Италию проще, а по приезду - справиться с итльянской бюрократией.</p>
+        <p>Мы создали этот гайд, чтобы сделать переезд в Италию проще, а после приезда — справиться с итальянской бюрократией.</p>
 
         <div className="contact-callout">
           <b>💡 Нашли неточность или хотите добавить информацию?</b>
