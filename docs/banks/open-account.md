@@ -3,7 +3,7 @@ title: "Открытие банковского счета в Италии"
 description: "Открытие банковского счета в Италии в качестве физического лица или для ведения бизнеса."
 sidebar_label: Открытие счета
 category: banks
-last_verified: 2026-10-28
+last_verified: 2026-11-26
 official_sources:
   - https://www.poste.it/conti-correnti-bancoposta/conto-corrente-bancoposta-di-base
 ---
